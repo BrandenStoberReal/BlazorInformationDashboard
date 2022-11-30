@@ -1,5 +1,4 @@
 # Blazor-Information-Dashboard
----
 
 ## Purpose
 This project is a learning experience designed to test the capability of the Blazor server software and how it handles WebAssembly. This project uses a C# backend and an HTML/CSS frontend with combined C# WebAssembly.
